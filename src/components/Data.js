@@ -6,7 +6,6 @@ import InsertDriveFileIcon from '@mui/icons-material/InsertDriveFile';
 import ImportExportIcon from '@mui/icons-material/ImportExport';
 import styled from "styled-components";
 import { db, storage } from "../firebase";
-import firebase from "firebase";
 import { AiOutlineDelete } from "react-icons/ai";
 
 const DataContainer = styled.div`

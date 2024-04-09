@@ -8,7 +8,7 @@ import styled from 'styled-components';
 
 const LoginWrapper = styled.div`
   position: relative;
-  top: 25vh;
+  top: 20vh;
   background: lightgrey;
   padding: 20px;
   width: 500px;
