@@ -14,5 +14,5 @@ code {
 }
 .App{
   display: grid;
-  grid-template-columns: 300px auto 50px;
+  grid-template-columns: 15% 85%;
 }

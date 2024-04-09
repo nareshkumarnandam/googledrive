@@ -31,6 +31,7 @@ const DataHeader = styled.div`
 
 const DataGrid = styled.div`
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   margin-top: 30px;
   margin-bottom: 30px;
